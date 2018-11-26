@@ -1,0 +1,14 @@
+td {
+	border: 2px solid pink;
+	height: 7em;
+	width: 10em;
+	text-align: center;
+}
+
+td:hover {
+	background: yellow;
+}
+
+table {
+	border-collapse: collapse;
+}
